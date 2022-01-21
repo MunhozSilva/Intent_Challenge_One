@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Challenge One</string>
+    <string name="send_text">send</string>
+    <string name="type_your_message_here">Type your message here.</string>
+</resources>
